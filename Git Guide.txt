@@ -9,4 +9,4 @@ https://m.blog.naver.com/nilsine11202/221740765797
 
 3) git commit -m "message"
 
-4) push -f origin dev
+4) git push -f origin dev
